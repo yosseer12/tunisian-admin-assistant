@@ -1,0 +1,73 @@
+{
+  "id": "passport-renewal-abroad",
+  "title_fr": "Obtention ou renouvellement d'un passeport (résidents à l'étranger)",
+  "title_ar": "الحصول على جواز سفر لأول مرة أو تجديده بالنسبة للتونسيين المقيمين بالخارج",
+  "conditions": {
+    "fr": [
+      "Être de nationalité tunisienne",
+      "Ne pas être concerné par les interdictions de la loi n° 75-40 du 14/05/1975 relative aux passeports et aux documents de voyage"
+    ],
+    "ar": [
+      "حاملا للجنسية التونسية",
+      "أن لا تكون له الموانع المنصوص عليها بالقانون عدد 40 لسنة 1975 المؤرخ في 14 ماي 1975 المتعلق بجوازات السفر ووثائق السفر والنصوص المنقحة والمتممة له"
+    ]
+  },
+  "steps": {
+    "derived": true,
+    "fr": [
+      "Remplir et signer personnellement l'imprimé de demande",
+      "Réunir les pièces à fournir",
+      "Payer le droit de timbre fiscal (équivalent en devises)",
+      "Déposer le dossier à l'ambassade ou au consulat",
+      "Récupérer le passeport dans les 15 jours suivant le dépôt"
+    ],
+    "ar": [
+      "تعمير الاستمارة وإمضاؤها شخصيا",
+      "تجميع الوثائق المطلوبة",
+      "دفع معلوم الطابع الجبائي بما يعادله بالعملة الأجنبية",
+      "إيداع الملف بالسفارة أو القنصلية",
+      "استلام الجواز خلال 15 يوما من تاريخ تقديم الطلب"
+    ]
+  },
+  "documents": {
+    "fr": [
+      "Imprimé de demande de passeport ordinaire lisible à la machine, rempli et signé",
+      "Copie de la CIN avec présentation de l'original, ou extrait de naissance pour les mineurs",
+      "4 photos d'identité, fond blanc, environ 3,5 x 4,5 cm",
+      "Justificatif d'études pour les élèves et étudiants",
+      "Autorisation du tuteur avec copie de sa CIN (mineurs)",
+      "Quittance de paiement du droit de timbre fiscal",
+      "Ancien passeport en cas de renouvellement",
+      "Demande sur papier ordinaire si vous souhaitez garder l'ancien passeport",
+      "Justificatif de résidence régulière à l'étranger"
+    ],
+    "ar": [
+      "استمارة الحصول على جواز سفر عادي مقروء آليا مع الإمضاء",
+      "نسخة من بطاقة التعريف الوطنية مع الاستظهار بالأصل أو مضمون ولادة بالنسبة للقصر",
+      "04 صور شمسية بخلفية بيضاء وبحجم 3.5/4.5 سم تقريبا",
+      "ما يفيد الدراسة بالنسبة للتلاميذ والطلبة",
+      "ترخيص الولي بالنسبة للقصر مصحوبا بنسخة من بطاقة تعريفه",
+      "وصل خلاص معلوم الطابع الجبائي المستوجب",
+      "الجواز القديم في حالة التجديد",
+      "طلب على ورق عادي عند الرغبة في الاحتفاظ بالجواز القديم",
+      "ما يفيد الإقامة بصفة قانونية بالخارج"
+    ]
+  },
+  "fees": {
+    "fr": "Équivalent en devises de 25 TND pour les élèves, étudiants et enfants de moins de 6 ans ; équivalent en devises de 80 TND pour les autres",
+    "ar": "ما يعادل 25 دنانير تونسية بالعملة الأجنبية للتلاميذ والطلبة والأطفال دون 6 سنوات؛ ما يعادل 80 دينارا تونسيا بالعملة الأجنبية للبقية"
+  },
+  "office": {
+    "fr": "Ambassade ou consulat",
+    "ar": "السفارة أو القنصلية"
+  },
+  "processing_time": {
+    "fr": "15 jours à compter du dépôt de la demande",
+    "ar": "خلال 15 يوما من تاريخ تقديم الطلب"
+  },
+  "source_url": "https://services.interieur.gov.tn/wap/ar/docs/demarches/02.html",
+  "source_language": "ar",
+  "notes": "French text translated from the Arabic official page; review before publishing.",
+  "last_verified": "2026-11-01",
+  "verified": true
+}

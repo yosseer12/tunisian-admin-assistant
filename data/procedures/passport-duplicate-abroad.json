@@ -1,0 +1,75 @@
+{
+  "id": "passport-duplicate-abroad",
+  "title_fr": "Obtention d'un duplicata de passeport - perte, vol ou détérioration (résidents à l'étranger)",
+  "title_ar": "استخراج نظير من جواز سفر (من أجل السرقة أو الضياع أو الإتلاف) بالنسبة إلى التونسيين المقيمين بالخارج",
+  "conditions": {
+    "fr": [
+      "Ne pas être concerné par les interdictions de la loi n° 75-40 du 14/05/1975 relative aux passeports et aux documents de voyage",
+      "Achèvement des enquêtes nécessaires",
+      "Nécessité avérée d'obtenir un duplicata"
+    ],
+    "ar": [
+      "أن لا تكون له الموانع المنصوص عليها بالقانون عدد 40 لسنة 1975 المؤرخ في 14 ماي 1975 المتعلق بجوازات السفر ووثائق السفر والنصوص المنقحة والمتممة له",
+      "استيفاء التحريات اللازمة",
+      "تأكد الحاجة لاستخراج جواز السفر"
+    ]
+  },
+  "steps": {
+    "derived": true,
+    "fr": [
+      "Remplir et signer personnellement l'imprimé de demande",
+      "Réunir les pièces à fournir, dont l'attestation de perte",
+      "Payer le droit de timbre fiscal (150 TND ou équivalent en devises)",
+      "Déposer le dossier à l'ambassade ou au consulat",
+      "Attendre l'achèvement des enquêtes et des procédures"
+    ],
+    "ar": [
+      "تعمير الاستمارة وإمضاؤها شخصيا",
+      "تجميع الوثائق المطلوبة بما فيها شهادة ضياع الجواز",
+      "دفع معلوم الطابع الجبائي (150 دينارا أو ما يعادلها بالعملة الأجنبية)",
+      "إيداع الملف بالسفارة أو القنصلية",
+      "انتظار استكمال التحريات والإجراءات اللازمة"
+    ]
+  },
+  "documents": {
+    "fr": [
+      "Imprimé de demande de passeport ordinaire lisible à la machine, rempli et signé",
+      "Copie de la CIN avec présentation de l'original, ou extrait de naissance pour les mineurs",
+      "4 photos d'identité, fond blanc, environ 3,5 x 4,5 cm",
+      "Attestation de perte du passeport",
+      "Autorisation du tuteur avec copie de sa CIN (mineurs)",
+      "Justificatif d'études pour les élèves et étudiants",
+      "Justificatif de résidence régulière à l'étranger",
+      "Quittance de paiement du droit de timbre fiscal (150 TND ou équivalent en devises)",
+      "Document prouvant la nécessité d'obtenir un duplicata du passeport"
+    ],
+    "ar": [
+      "استمارة الحصول على جواز سفر عادي مقروء آليا مع الإمضاء",
+      "نسخة من بطاقة التعريف الوطنية مع الاستظهار بالأصل أو مضمون ولادة بالنسبة للقصر",
+      "04 صور شمسية بخلفية بيضاء وبحجم 3.5/4.5 سم تقريبا",
+      "شهادة ضياع جواز السفر",
+      "ترخيص الولي بالنسبة للقصر مصحوبا بنسخة من بطاقة تعريفه",
+      "ما يفيد الدراسة بالنسبة للتلاميذ والطلبة",
+      "ما يفيد الإقامة بصفة قانونية بالخارج",
+      "وصل خلاص معلوم الطابع الجبائي المستوجب (150 دينارا أو ما يعادلها من العملة الأجنبية)",
+      "إثبات تأكد استخراج جواز سفر بوثيقة تعتمد وتثبت هذا التأكد"
+    ]
+  },
+  "fees": {
+    "fr": "150 TND ou équivalent en devises",
+    "ar": "150 دينارا أو ما يعادلها من العملة الأجنبية"
+  },
+  "office": {
+    "fr": "Ambassade ou consulat",
+    "ar": "السفارة أو القنصلية"
+  },
+  "processing_time": {
+    "fr": "Après l'achèvement des enquêtes et des procédures nécessaires (pas de délai fixe)",
+    "ar": "بعد استكمال التحريات وإتمام الإجراءات اللازمة"
+  },
+  "source_url": "https://services.interieur.gov.tn/wap/ar/docs/demarches/02.html",
+  "source_language": "ar",
+  "notes": "French text translated from the Arabic official page; review before publishing.",
+  "last_verified": "2026-11-01",
+  "verified": true
+}

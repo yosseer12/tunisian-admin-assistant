@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eyUJ3Xj9Hc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosr bouguerra\\tunisian-admin-assistant\\api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosr bouguerra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\yosr bouguerra\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\yosr bouguerra\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\yosr bouguerra\\.nuget\\packages\\pgvector\\0.3.2\\pgvector.0.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\yosr bouguerra\\tunisian-admin-assistant\\api\\Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\yosr bouguerra\\tunisian-admin-assistant\\api\\Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

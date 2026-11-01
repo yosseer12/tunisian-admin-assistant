@@ -1,0 +1,59 @@
+{
+  "id": "travel-document-pilgrimage",
+  "title_fr": "Document de voyage pour le pèlerinage",
+  "title_ar": "الحج",
+  "conditions": {
+    "fr": [
+      "Figurer sur la liste finale des pèlerins établie par l'autorité compétente",
+      "La liste doit avoir été transmise à la Direction des frontières et des étrangers",
+      "Ne pas être concerné par les interdictions de la loi n° 75-40 de 1975"
+    ],
+    "ar": [
+      "أن يكون المنتفع بالرخصة مدرج ضمن القائمة النهائية للحجيج الصادرة عن السلطة المسؤولة",
+      "ورود القائمة المذكورة على إدارة الحدود والأجانب",
+      "أن يكون المنتفع خال من الموانع المنصوص عليها بالقانون عدد 40 لسنة 1975 المتعلق بجوازات السفر ووثائق السفر"
+    ]
+  },
+  "steps": {
+    "derived": true,
+    "fr": [
+      "Vérifier que votre nom figure sur la liste finale des pèlerins",
+      "Réunir les pièces à fournir",
+      "Déposer le dossier au bureau compétent",
+      "Récupérer le document immédiatement ou sous 24 heures"
+    ],
+    "ar": [
+      "تأكد من إدراج الاسم بالقائمة النهائية للحجيج",
+      "تجميع الوثائق المطلوبة",
+      "إيداع الملف بالمقر المختص",
+      "استلام الوثيقة حينيا أو خلال 24 ساعة"
+    ]
+  },
+  "documents": {
+    "fr": [
+      "Copie de la CIN",
+      "4 photos d'identité"
+    ],
+    "ar": [
+      "نسخة من بطاقة التعريف الوطنية",
+      "04 صور شمسية"
+    ]
+  },
+  "fees": {
+    "fr": "Non précisé sur la page officielle",
+    "ar": "غير مذكور بالصفحة الرسمية"
+  },
+  "office": {
+    "fr": "District de Tunis : Direction des frontières et des étrangers (Bourse du travail, Tunis) ; autres gouvernorats : siège de la sûreté nationale régionale ou lieux désignés à cet effet",
+    "ar": "بالنسبة لإقليم تونس: مقر إدارة الحدود والأجانب (بورصة الشغل بتونس)؛ بالنسبة للولايات الأخرى: مقر المنطقة الجهوية للأمن الوطني أو الأماكن التي يتم تخصيصها للغرض"
+  },
+  "processing_time": {
+    "fr": "Immédiatement ou dans les 24 heures suivant le dépôt du dossier",
+    "ar": "حينيا أو خلال 24 ساعة من تقديم الملف"
+  },
+  "source_url": "https://services.interieur.gov.tn/wap/ar/docs/demarches/02.html",
+  "source_language": "ar",
+  "notes": "Page heading on the official site is only 'الحج'; title_fr/ar fields describe the service. Fees not stated on the page.",
+  "last_verified": "2026-11-01",
+  "verified": true
+}

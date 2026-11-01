@@ -1,0 +1,71 @@
+{
+  "id": "passport-change-tn",
+  "title_fr": "Changement d'un passeport ordinaire (résidents en Tunisie)",
+  "title_ar": "تغيير جواز سفر عادي بالنسبة للتونسيين المقيمين بالتراب التونسي",
+  "conditions": {
+    "fr": [
+      "Changement d'un élément d'identité",
+      "Ou passeport usé, inutilisable ou dont les pages sont épuisées (l'une des deux conditions)",
+      "Ne pas être concerné par les interdictions de la loi n° 75-40 du 14/05/1975 relative aux passeports et aux documents de voyage"
+    ],
+    "ar": [
+      "حصول تغيير في أحد عناصر الهوية",
+      "أو أصبح الجواز باليا أو غير صالح للاستعمال أو بسبب نفاذ الصفحات",
+      "أن لا تكون له الموانع المنصوص عليها بالقانون عدد 40 لسنة 1975 المؤرخ في 14 ماي 1975 المتعلق بجوازات السفر ووثائق السفر والنصوص المنقحة والمتممة له"
+    ]
+  },
+  "steps": {
+    "derived": true,
+    "fr": [
+      "Remplir et signer personnellement l'imprimé de demande",
+      "Réunir les pièces à fournir, dont le passeport à remplacer",
+      "Payer le droit de timbre fiscal",
+      "Déposer le dossier au poste de sûreté compétent",
+      "Récupérer le passeport dans les 15 jours"
+    ],
+    "ar": [
+      "تعمير الاستمارة وإمضاؤها شخصيا",
+      "تجميع الوثائق المطلوبة بما فيها الجواز المراد تعويضه",
+      "دفع معلوم الطابع الجبائي",
+      "إيداع الملف بمركز الأمن حسب مرجع النظر الترابي",
+      "استلام الجواز خلال 15 يوما"
+    ]
+  },
+  "documents": {
+    "fr": [
+      "Imprimé de demande de passeport ordinaire lisible à la machine, rempli et signé",
+      "Passeport à remplacer",
+      "Copie de la CIN avec présentation de l'original, ou extrait de naissance pour les mineurs",
+      "4 photos d'identité, fond blanc, environ 3,5 x 4,5 cm",
+      "Autorisation du tuteur avec copie de sa CIN (mineurs)",
+      "Justificatif d'études pour les élèves et étudiants",
+      "Quittance de paiement du droit de timbre fiscal"
+    ],
+    "ar": [
+      "استمارة الحصول على جواز سفر عادي مقروء آليا مع الإمضاء",
+      "الجواز المراد تعويضه",
+      "نسخة من بطاقة التعريف الوطنية مع الاستظهار بالأصل أو مضمون ولادة بالنسبة للقصر",
+      "04 صور شمسية بخلفية بيضاء وبحجم 3.5/4.5 سم تقريبا",
+      "ترخيص الولي بالنسبة للقصر مصحوبا بنسخة من بطاقة تعريفه",
+      "ما يفيد الدراسة بالنسبة للتلاميذ والطلبة",
+      "وصل خلاص معلوم الطابع الجبائي المستوجب"
+    ]
+  },
+  "fees": {
+    "fr": "25 TND pour les élèves, étudiants et enfants de moins de 6 ans ; 150 TND pour les passeports usés ou détériorés ; 80 TND pour les autres",
+    "ar": "25 دنانير للتلاميذ والطلبة والأطفال دون 6 سنوات؛ 150 دينارا للجوازات البالية أو المشوهة؛ 80 دينارا للبقية"
+  },
+  "office": {
+    "fr": "Poste de sûreté (police ou garde nationale) territorialement compétent",
+    "ar": "مركز الأمن (شرطة أو حرس وطني) حسب مرجع النظر الترابي"
+  },
+  "processing_time": {
+    "fr": "15 jours à compter du dépôt de la demande",
+    "ar": "خلال 15 يوما من تاريخ تقديم الطلب"
+  },
+  "source_url": "https://services.interieur.gov.tn/wap/ar/docs/demarches/02.html",
+  "source_language": "ar",
+  "notes": "French text translated from the Arabic official page; review before publishing.",
+  "last_verified": "2026-11-01",
+  "verified": true
+}
